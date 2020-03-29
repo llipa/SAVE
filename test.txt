@@ -1,1 +1,2 @@
 It's my first day to use git and github.
+Try git.
